@@ -9,3 +9,4 @@ Here are some use cases using popular MLOps tools for AI/ML use cases, take it a
 
 2. Use Ray serve to deploy LLM models for distributed inference
 
+Refer to [Run Inference using Ray Serve](http://kubeagi.k8s.com.cn/docs/Configuration/DistributedInference/deploy-using-rary-serve/)
